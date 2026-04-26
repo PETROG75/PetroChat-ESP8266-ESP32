@@ -6,9 +6,10 @@ To use this code:-
 1. Upload it to your board.
 2. Download the app.
 3. Connect to the AP (password = petrog75).
-4. Open you app and write your name.
-5. Write you message and click send.
-6. To receive message just follow the instructions till 4 points and click receive message , you will see the message and the client name.
+4. Open your  app and write your name.
+5. Write your message and click send.
+6. To receive a message, just follow the instructions till 4 points and click receive message , you will see the message and the client name.
 
 NOTE: The personal message section is in development and have some errors, but you can check out the global message section.
+
 Thanks for you attention.
