@@ -1,6 +1,6 @@
 # PetroChat-ESP8266-ESP32
 
-**<u>A PRIVATE CHATTING APP IN YOUR HANDS MADE BY YOU</u>**
+**<u>A PRIVATE CHATTING APP IN YOUR HAND MADE BY YOU</u>**
 
 **How to set up your board?**
 
