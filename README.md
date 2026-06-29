@@ -10,6 +10,7 @@
 **How to set up your board?**
 
 Download the Arduino ide on your device. Add the esp8266 board into the arduino by pasting this url into the preferences option:- http://arduino.esp8266.com/stable/package_esp8266com_index.json . Add the required libraries of the code and you are good to go!
+
 <img width="722" height="607" alt="image" src="https://github.com/user-attachments/assets/12c9e402-0867-4992-8bd1-f8312049e8a8" />
 
 **What is this code about and how to use it?**
