@@ -33,6 +33,8 @@ To use this:-
 
 <img width="195" height="80" alt="Screenshot 2026-06-29 151836" src="https://github.com/user-attachments/assets/5b4d76ce-383f-4a02-82b9-7321c4a78738" />
 
+
+
 **Emojis can also be sent.**
 
 **<u>NOTE: The personal message section is in development and have some errors, but you can check out the global message section.</u>**
