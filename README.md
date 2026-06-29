@@ -21,9 +21,11 @@ To use this:-
 
 1. Upload this code on the board.
 2. Download the app in you device.
-
+<img width="1770" height="863" alt="Screenshot 2026-06-29 150936" src="https://github.com/user-attachments/assets/67afcc61-6afd-4e03-a4fe-35125f04944c" />
+3. Connect to the AP (PetroChat, password = 
 4. Open the app and fill credentials like in this image (name can be changed to whatever you like):-
-<img width="722" height="607" alt="image" src="C:\Users\BEENU LATA\OneDrive\Documents\画像\Screenshots" />
+<img width="1766" height="777" alt="Screenshot 2026-06-29 151014" src="https://github.com/user-attachments/assets/4a5d44c3-c9f5-42cf-8e34-65bd91e77439" />
+
 **<u>NOTE: The personal message section is in development and have some errors, but you can check out the global message section.</u>**
 
 <u>Thanks for you attention.</u>
