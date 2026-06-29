@@ -20,12 +20,20 @@ If this code has some errors, then please ignore them because it is my first cod
 To use this:-
 
 1. Upload this code on the board.
+  
 2. Download the app in you device.
 <img width="1770" height="863" alt="Screenshot 2026-06-29 150936" src="https://github.com/user-attachments/assets/67afcc61-6afd-4e03-a4fe-35125f04944c" />
-3. Connect to the AP (PetroChat, password = 
-4. Open the app and fill credentials like in this image (name can be changed to whatever you like):-
+
+3. Connect to the AP (PetroChat, password = petrog75).
+
+4. Open the app and fill credentials like in this image (name and message can be changed to whatever you like):-
 <img width="1766" height="777" alt="Screenshot 2026-06-29 151014" src="https://github.com/user-attachments/assets/4a5d44c3-c9f5-42cf-8e34-65bd91e77439" />
 
+5.You can set the time taken between each receive message request to automatically request the server to send the messages to client by turning on this switch:- 
+<img width="195" height="80" alt="Screenshot 2026-06-29 151836" src="https://github.com/user-attachments/assets/5b4d76ce-383f-4a02-82b9-7321c4a78738" />
+
+>>> Emojis can also be sent.
+>>> 
 **<u>NOTE: The personal message section is in development and have some errors, but you can check out the global message section.</u>**
 
 <u>Thanks for you attention.</u>
